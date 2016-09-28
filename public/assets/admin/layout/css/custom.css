@@ -1,0 +1,16 @@
+.give-margin-bottom
+{
+    margin-bottom: 5px;
+}
+
+.fa-aud:before {
+    content: "\f155";
+}
+
+.fa-nzd:before {
+    content: "\f155";
+}
+
+.fa-zar:before {
+    content: "R";
+}
